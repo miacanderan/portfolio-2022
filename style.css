@@ -152,20 +152,20 @@ a:active {
 }
 
 .navigation-arrow {
-  color: var(--alt-background-color);
+  color: #7CAFDE;
 }
 
 .navigation-arrow:link {
   -webkit-text-stroke-width: 2px;
-  -webkit-text-stroke-color: #555555;
+  -webkit-text-stroke-color: white;
   color: transparent;
 }
 
 .navigation-arrow:active,
 .navigation-arrow:hover {
-  color: #5200FF;
+  color: #f37130FF;
   -webkit-text-stroke-width: 2px;
-  -webkit-text-stroke-color: #5200FF;
+  -webkit-text-stroke-color: #f37130;
 }
 
 .colored-link {
@@ -245,6 +245,10 @@ p {
       rgba(238, 174, 202, 1) 0%,
       rgba(148, 187, 233, 1) 100%); */
 }
+
+/* .hero-header {
+  background: black;
+} */
 
 .branding-navigation {
   display: flex;
