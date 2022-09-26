@@ -367,7 +367,7 @@ p {
 .project-aside {
   width: 100%;
   color: white;
-  background: orangered;
+  /* background: orangered; */
   padding: 1rem;
   display: flex;
   flex-direction: column;
@@ -400,11 +400,11 @@ p {
 /* Main Project Image Area */
 .project-details {
   width: 100%;
-  background-image: linear-gradient(-225deg,
+  /* background-image: linear-gradient(-225deg,
       #ff057c 0%,
       #8d0b93 50%,
-      #321575 100%);
-  padding: 1rem;
+      #321575 100%); */
+  padding: 0rem;
 }
 
 
